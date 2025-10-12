@@ -4,6 +4,5 @@
 
 Currently exploring LLMs in a material sciences context at IBM and bias reduction techniques for facial recognition algorithms at Recod.Ai.  
 
-## 📫 Connect with me
+## 📫 Contact me at
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/giovannimicaroni/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/giovannimicaroni)
