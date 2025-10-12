@@ -1,5 +1,5 @@
 <h2 align="left">👋Hi, I'm Giovanni</h2>
-<h8 align="left">🎓 I'm a Computer Engineering student at the University of Campinas (UNICAMP) and an AI intern passionate about Machine Learning, Large Language Models and Software Development. <br><br>
+<h8 align="left">🎓 I'm a Computer Engineering student at the University of Campinas (UNICAMP) and an AI intern interested in Machine Learning, Large Language Models and Software Development. <br><br>
 Currently exploring LLMs in a material sciences context at IBM and bias reduction techniques for facial recognition algorithms at Recod.Ai.<br></h8>
 
 <h3 align="left">🌐 Connect with Me</h3>
