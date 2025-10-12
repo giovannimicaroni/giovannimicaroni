@@ -1,8 +1,19 @@
-# 👋 Hi, I'm Giovanni!
+<h2 align="left">👋Hi, I'm Giovanni</h2>
+<h8 align="left">🎓 I'm a Computer Engineering student at the University of Campinas (UNICAMP) and an AI intern passionate about Machine Learning, Large Language Models and Software Development. <br><br>
+Currently exploring LLMs in a material sciences context at IBM and bias reduction techniques for facial recognition algorithms at Recod.Ai.<br></h8>
 
-🎓 I'm a Computer Engineering student at the University of Campinas (UNICAMP) and an AI intern passionate about Machine Learning, Large Language Models and Software Development.
+<h3 align="left">🌐 Connect with Me</h3>
 
-Currently exploring LLMs in a material sciences context at IBM and bias reduction techniques for facial recognition algorithms at Recod.Ai.  
+<div align="left">
+  <a href="mailto:gimicaroni@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/giovannimicaroni" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <br>
+</div>
 
-## 📫 Contact me at
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/giovannimicaroni/)
+###
+
+<br clear="both">
